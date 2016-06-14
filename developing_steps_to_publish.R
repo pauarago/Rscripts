@@ -28,3 +28,8 @@ search("package:tyourackage")
 #check the package before publish
 devtools::check()
 
+#Check on terminal no in R consol or R studio also build de pdf
+ R CMD build yourpackage
+ R CMD INSTALL  yourpackage.tar.gz
+ R CMD check  yourpackage.tar.gz
+
