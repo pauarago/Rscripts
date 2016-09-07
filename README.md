@@ -1,2 +1,2 @@
 # Rscripts
-R scripts useful on my diary work. Tak it as it is just for remember how to do it, without any guarantee dat will work. Indeed somtimes is unfinished code just to do some scratch
+Useful R scripts to my dayly work. Take it as it is just to remember how to do things, without any guarantee that will work. Indeed, somtimes code will be unfinished just to do some scratch or to show some functionalities.
