@@ -42,7 +42,7 @@ cities@data
 #nombres de las columna
 names(cities@data)
 
-#visualización de la copa con R
+#visualización de la capa con R
 plot(cities, axes=TRUE)
 
 #escribir cities como un shp de salida
