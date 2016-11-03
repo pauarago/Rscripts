@@ -1,7 +1,7 @@
 #Those are the steps to check a package under development befor publish it
 
 #install packages if are not installed
-install.packages(c("pack1", "pacl2"))
+install.packages(c("pack1", "pack2"))
 
 #load library form folder
 install.packages("path to your local folder", repos = NULL, type="source")
