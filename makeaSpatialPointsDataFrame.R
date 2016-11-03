@@ -19,7 +19,7 @@ coordinates=rbind(coor1, coor2)
 mydata=as.data.frame(rbind("point1", "point1"))
 
 #----------------------------
-#Corrdinate referenc system
+#Corrdinate reference system
 #----------------------------
 #There are to options todefine de CRS
 #visit http://spatialreference.org/ref/epsg/wgs-84/
